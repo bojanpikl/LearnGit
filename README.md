@@ -6,7 +6,7 @@ TODO
 
 ## Second chapter
 
-TODO
+Describe second chapter
 
 ## Third chapter
 
