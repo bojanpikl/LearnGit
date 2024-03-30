@@ -2,7 +2,7 @@
 
 ## First chapter
 
-TODO
+Description of the first chapter
 
 ## Second chapter
 
